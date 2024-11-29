@@ -1,4 +1,4 @@
-# UAS_PBO
+# UAS_Paradigma Berorientasi Objek
 
 Nama   : Nicolaus Owen Marvell  ||  NIM    : 09031182328003  ||  Kelas  : SIBIL 3A
 
